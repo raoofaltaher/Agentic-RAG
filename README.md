@@ -35,7 +35,7 @@ The system leverages vector embeddings (currently using Google's `text-embedding
 
 1.  **Clone the Repository (or download files):**
     ```bash
-    git clone [<your-repo-url>](https://github.com/raoofaltaher/Agentic-RAG)
+    git clone https://github.com/raoofaltaher/Agentic-RAG
     cd Agentic-RAG
     ```
 
