@@ -21,7 +21,7 @@ The system leverages vector embeddings (currently using Google's `text-embedding
 ## Architecture
 
 **Core Agentic RAG Flow:**
-![Core Flow Diagram](images\agentic_rag_0.png) 
+![Core Flow Diagram](images/agentic_rag_1.png) 
 
 ## Prerequisites
 
