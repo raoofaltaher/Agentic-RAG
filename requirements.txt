@@ -1,0 +1,12 @@
+python-dotenv
+google-generativeai
+requests
+PyPDF2
+tqdm
+langchain-text-splitters
+tiktoken
+litellm
+openai # Often needed by litellm or for tokenizers
+qdrant-client>=1.7.0 # Use a recent version
+duckduckgo_search
+ipython # Only needed if you want display/Markdown features outside notebooks

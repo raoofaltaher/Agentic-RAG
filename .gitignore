@@ -1,0 +1,40 @@
+# --- Python ---
+# Virtual environment
+venv/
+*.pyc
+__pycache__/
+*.egg-info/
+pip-wheel-metadata/
+
+# --- Sensitive Data ---
+# Environment variables (contains API keys!)
+.env
+# Example environment file is OK to commit
+# !.env.example
+
+# --- IDE/Editor ---
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# --- macOS ---
+.DS_Store
+
+# --- Data Files (Optional - adjust if you *want* to commit small sample data) ---
+# Exclude the content of the RAG data folder
+/rag_data/
+# Exclude any potentially large downloaded files (like audio from the notebook example)
+*.mp3
+
+# --- Notebook Checkpoints ---
+.ipynb_checkpoints/
+
+# --- Build artifacts ---
+dist/
+build/
+*.spec
+
+# --- Log files ---
+*.log
+logs/
