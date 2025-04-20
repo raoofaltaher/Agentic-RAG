@@ -35,8 +35,8 @@ The system leverages vector embeddings (currently using Google's `text-embedding
 
 1.  **Clone the Repository (or download files):**
     ```bash
-    git clone <your-repo-url>
-    cd agentic-rag-project
+    git clone [<your-repo-url>](https://github.com/raoofaltaher/Agentic-RAG)
+    cd Agentic-RAG
     ```
 
 2.  **Create Python Virtual Environment (Recommended):**
